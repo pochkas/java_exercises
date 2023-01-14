@@ -34,3 +34,89 @@ Width = 5.5 Height = 8.5
 Expected Output
 Area is 5.6 * 8.5 = 47.60
 Perimeter is 2 * (5.6 + 8.5) = 28.20
+
+20. Write a Java program to convert a decimal number to hexadecimal number.
+Input Data:
+Input a decimal number: 15
+Expected Output
+
+Hexadecimal number is : F
+
+21. Write a Java program to convert a decimal number to octal number.
+Input Data:
+Input a Decimal Number: 15
+Expected Output
+
+Octal number is: 17
+
+33. Write a Java program and compute the sum of the digits of an integer.
+Input Data:
+Input an integer: 25
+Expected Output
+
+The sum of the digits is: 7
+
+37. Write a Java program to reverse a string.
+Input Data:
+Input a string: The quick brown fox
+Expected Output
+
+Reverse string: xof nworb kciuq ehT
+
+38. Write a Java program to count the letters, spaces, numbers and other characters of an input string.
+
+The string is :  Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33
+letter: 23
+space: 9
+number: 10
+other: 6
+
+39. Write a Java program to create and display unique three-digit number using 1, 2, 3, 4. Also count how many three-digit numbers are there. Go to the editor
+Expected Output
+
+123
+124
+...
+
+431
+432
+Total number of the three-digit-number is 24
+
+
+40. Write a Java program to list the available character sets in charset objects.
+Expected Output
+
+List of available character sets:
+Big5
+Big5-HKSCS
+CESU-8
+EUC-JP
+EUC-KR
+GB18030
+GB2312
+GBK
+
+...
+
+x-SJIS_0213
+x-UTF-16LE-BOM
+X-UTF-32BE-BOM
+X-UTF-32LE-BOM
+x-windows-50220
+x-windows-50221
+x-windows-874
+x-windows-949
+x-windows-950
+x-windows-iso2022jp
+
+41. Write a Java program to print the ascii value of a given character.
+Expected Output
+
+The ASCII value of Z is :90
+
+
+42. Write a Java program to input and display your password. Go to the editor
+Expected Output
+
+Input your Password:
+Your password was: abc@123

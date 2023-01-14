@@ -25,24 +25,20 @@ public class Main {
         System.out.println("Perimeter is: " + exercise11.perimeter);
         System.out.println("Area is: " + exercise11.area);
 
-        System.out.println('\n' + "Exercise12:");
-        Scanner scanner = new Scanner(System.in);
-        int i = 1;
-        int x = 3;
-        int sum = 0;
-        while (i <= x) {
-            System.out.println("Input the number " + i + " : ");
-            int num = scanner.nextInt();
-            i++;
-            sum += num;
-        }
-        System.out.println("Average is: " + (sum / x));
+
 
         System.out.println('\n' + "Exercise13:");
-        Exercise13 exercise13=new Exercise13();
+        Exercise13 exercise13 = new Exercise13();
 
         System.out.println("Perimeter is: " + exercise13.perimeter);
         System.out.println("Area is: " + exercise13.area);
+
+        System.out.println('\n' + "Exercise20:");
+
+
+
+
+
 
     }
 }
